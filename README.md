@@ -24,7 +24,7 @@ How to reach me:
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" align="center">  
 </div>
 
-<div style="margin-top: 20px"> 
+<div style="margin-top: 20"> 
 <img alt="Top Languages" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaguilera&layout=compact">
 </div>
 
