@@ -11,7 +11,6 @@ How to reach me:
 
 <div style="display: inline_block">
 <img alt="Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=andreaguilera&count_private=true&show_icons=true&theme=dracula">
-<img alt="Top Languages" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaguilera&layout=compact">
 </div>
 
  ## Languages and Tools
@@ -23,6 +22,10 @@ How to reach me:
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" align="center">  
+</div>
+
+<div style="display: inline_block"> 
+<img alt="Top Languages" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaguilera&layout=compact">
 </div>
 
 #### Feel free to look on my repositories!
