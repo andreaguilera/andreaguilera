@@ -11,7 +11,7 @@ How to reach me:
 
 <div style="display: inline_block">
 <img alt="Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=andreaguilera&count_private=true&show_icons=true&theme=dracula">
-<img alt="Top Languages" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaguilera&layout=compact">
+<img alt="Top Languages" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaguilera&layout=compact">
 </div>
 
  ## Languages and Tools
